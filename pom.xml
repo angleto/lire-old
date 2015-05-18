@@ -105,6 +105,13 @@
 			<scope>system</scope>
 			<systemPath>${basedir}/lib/JOpenSurf.jar</systemPath>
 		</dependency>
+		<dependency>
+			<groupId>com.opencv</groupId>
+			<artifactId>opencv</artifactId>
+			<version>249</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/opencv-249.jar</systemPath>
+		</dependency>
 	</dependencies>
 
 	<build>
